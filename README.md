@@ -1,4 +1,4 @@
-# Doodle Bird
+# Opus Bird
  
 A simple Flappy Bird-style game built with Flutter.
 
