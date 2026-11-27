@@ -2,7 +2,8 @@
  
 A simple Flappy Bird-style game built with Flutter.
 
-- (this is a text project)
+- (this is a test project)
+- (Claude one shot)
  
 ## Features
 - Tap (or press Space) to flap and fly through the pipes
